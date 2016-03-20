@@ -1,0 +1,14 @@
+# common excludes
+*.bak
+*-bak
+
+# firmware excludes
+firmware/*.cbp
+firmware/*.layout
+firmware/obj/
+
+# pcb excludes
+pcb/pdf/
+pcb/pic/
+pcb/bom/
+pcb/*.xml
